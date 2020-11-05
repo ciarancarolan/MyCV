@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Ciaran Carolan
 title: Program Manager (ICAO Public Key Directory)
 email: ccarolan@icao.int
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Social links
 twitter_username: carolancg
