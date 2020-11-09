@@ -29,8 +29,8 @@ about_content: | # this will include new lines to allow paragraphs
   I love dealing with people and speaking publically. I've got an appetite for new knowledge. I'm an <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">ENTP.</a><br><br>
   I am most skilled in: <mark>innovation</mark>, <mark>project management</mark> and <mark>leading and managing people</mark>
 
-Projects Section
-projects_title: Projects
+# Projects Section
+# projects_title: Projects
   I am most proud of leading or being a key member of the teams who successfully delivered:
   - The new ICAO Masterlist
   - The Schengen Smart Borders pilot
@@ -42,17 +42,13 @@ projects_title: Projects
 # Experience Section
 # experience_title: Experience
 
-Education Section
-educaton_title: Education
+# Education Section
+# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
 #more_content: | # this will include new lines to allow paragraphs
-#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#   - Rock climbing
-#   - Gaming
-#   - Knitting
-#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
 
 # Footer
 footer_show_references: true
