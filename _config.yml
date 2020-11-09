@@ -8,6 +8,8 @@ title: Program Manager (ICAO Public Key Directory)
 email: ccarolan@icao.int
 # website: www.github.com/sproogen/resume-theme
 
+darkmode: false
+
 # Social links
 twitter_username: carolancg
 github_username:  ciarancarolan
@@ -20,6 +22,8 @@ linkedin_username: ciarancarolan
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+google_analytics: "UA-00000000-0"
+
 # About Section
 # about_title: About Me
 about_profile_image: Chair_small.jpg
@@ -27,13 +31,10 @@ about_content: | # this will include new lines to allow paragraphs
   I'm a creative and results-oriented leader. I strive to inspire and drive change through implementation of technological projects that can transform business for the better.<br>
   Experienced in ideation (<a href="http://www.embl-hamburg.de/ARP/">built novel software for drug discovery</a>), building coalitions for change (<a href="https://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3435">ensured EU-wide agreement to interoperability of large-scale IT systems as a paradigm shift in operational approaches</a>) and project/program management (<a href="https://www.eulisa.europa.eu/Activities/Pilot-Projects">managed Smart Borders testing</a>, <a href="https://www.icao.int/Security/FAL/PKD/Pages/ICAO-Master-List.aspx">delivery of the ICAO masterlist</a>).<br><br>
   I love dealing with people and speaking publically. I've got an appetite for new knowledge. I'm an <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">ENTP.</a><br><br>
-  I am most skilled in: <mark>innovation</mark>, <mark>project management</mark> and <mark>leading and managing people, both in-office and remotely</mark> (having completed a blended learning MBA with extensive online teamwork and project coordination, as well as having led a team of 5 spread across two countries to successful finalization of EU interoperability policy. 
-  
-  
-  
+  I am most skilled in: <mark>innovation</mark>, <mark>project management</mark> and <mark>leading and managing people, both in-office and remotely</mark> (having completed a blended learning MBA with extensive online teamwork and project coordination, as well as having led a team of 5 spread across two countries to successful finalization of EU interoperability policy.) 
 
 # Education Section
-education_title: Education
+#education_title: Education
 
 # Experience Section
 # experience_title: Experience
