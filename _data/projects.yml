@@ -1,8 +1,23 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: ICAO master list
+  link: https://www.icao.int/Security/FAL/PKD/Pages/ICAO-Master-List.aspx
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    A new resource for easing State challenges in validating electronic passports, delivered within 9 months of taking up a new role.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  The ICAO master list of CSCA certificates is used by States and other entities globally to obtain up-to-date data necessary for electornic passport authentication in a convenient, machine-usable format. The first master list was published in March 2019 having been sought by the community for years before, containing several hundred national certificates. It is signed by the United Nations private key for added trust.
+
+- layout: top-middle
+  name: EU Interoperability
+  link: https://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetailDoc&id=32600&no=1
+  quote: >
+    Ideating new paradigms for EU IT system operation with diverse stakeholders, assessing feasibility, motivating buy-in and delivering legislative change
+  description: | # this will include new lines to allow paragraphs
+  I was the main eu-LISA coordinator to the EU High-Level Expert Group on Information Systems and Interoperability, managing all Agency input. Taking into account discussions therein, I participated in several feasbility studies, managing delivery of the shared Biometric Matching System study. Continued outreach at both technical and poltical levels to eventual successful approval of new legislation.
+
+- layout: top-middle
+  name: EU Smart Borders pilot
+  link: https://www.eulisa.europa.eu/Activities/Pilot-Projects
+  quote: >
+    Testing new border control technologies in real-life settings across Europe
+  description: | # this will include new lines to allow paragraphs
+  I was a team member for the Smart Borders pilot, managing testing at 7 different border control points in 4 European countries. I also took responsibility for all industry engagement within the pilot, attaining free-of-charge technological offerings from more than 20 companies within the pilot.

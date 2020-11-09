@@ -1,9 +1,34 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: International Civil Aviation Organization, Montreal/Canada
+  link: icao.int
+  job_title: Programme Manager (PKD)
+  dates: August 2019 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Managing and evolving the PKD IT system, a fundamental cornerstone of international passport infrastructure
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Electronic tools and devices facilitate modern travel. The electronic passport, as defined by ICAO, is one such tool now issued by more than 140 States. I administer the PKD, a system sharing data necessary for validation of global electronic passports. I manage the PKD team and contribute to the overall development of ICAO's facilitation program
+
+- layout: left
+  company: EU Agency for Large-Scale IT Systems, Tallinn/Estonia and Strasbourg/France
+  link: eu-lisa.europa.eu
+  jobs
+  -title: Head of Sector External Affairs and Capacity Building
+  dates: 2017-2019
+  -title: Head of the Interoperability Team
+  dates: 2016-2019
+  -title: Research & Development Officer
+  dates: 2013-2019
+  quote: >
+   Leading internal ideation and external partnerships to drive change and build capacities for proper usage of advanced EU IT Systems for border management and law enforcement
+  description: | # this will include new lines to allow paragraphs
+    I managed all R&D activities and outreach related to innovation related to eu-LISA's large-scale IT systems, including through organization of content for Agency conferences and coordinating all industry engagement. Continued to lead a team of 5 responsible for defining new interoperability infrastructure based on extensive internal liaison. Managed a sector team of 14 responsible for R&D, training, policy and external stakeholder management.
+
+    - layout: left
+  company: European Molecular Biology Laboratory, Hamburg/Germany and Cambridge/UK
+  link: embl.org
+  job_title: Postdoctoral Researcher
+  dates: 2009-2013
+  quote: >
+   Developing a new module for drug discovery within the globally used ARP/wARP software suite
+  description: | # this will include new lines to allow paragraphs
+    Developed a first-of-its-kind software for modelling drugs and other small molecules bound to proteins using statistical modelling and big data analysis, collaborating with researchers in Russia, France, Germany, UK and elsewhere. Trained software users in software schools on 5 continents. 24 peer-reviewed articles have been published on foot of this research, together cited more than 250 times.

@@ -1,9 +1,29 @@
 - layout: left
-  name: Trinity College Dublin
+  name: Trinity College Dublin, Ireland
   dates: 2005-2008
   qualification: PhD (Computational and Pharmaceutical Chemistry)
   quote: >
-    Trinity College Dublin,  the sole constituent college of the University of Dublin, is Ireland's leading university and the 101st ranked university worldwide. It prides itself as a research-driven institute known and respected globally for its culture of academic freedom, diversity of scholarship, and the highest level of academic standards.
+    Discovering new drugs in Ireland's most globally-recognized and prestigious university.
+  description: |
     My PhD was focussed on combining computational analyses with laboratory testing and investigation to discover new drug candidates for Alzheimer's Disease. The work contributed to discovery of 2 patented drug compounds and at least one compound currently subject to commercial development.
-
     My work was funded by the Irish Research Council for Science, Engineering and Technology.
+
+    - layout: left
+  name: IE Business School, Madrid, Spain
+  dates: 2018-2019
+  qualification: MBA
+  quote: >
+    A comprehensive business education with entrepreneurship at its heart at an internationally number-1 ranked educational institution 
+  description: |
+    Completed the blended Global MBA program with GPA 3.95. Won the award for best student across the 100-student cohort.
+    Selected to participate in the global study week in Silicon Valley
+
+    - layout: left
+  name: Trinity College Dublin, Ireland
+  dates: 2000-0224
+  qualification: BSc (Pharmacy)
+  quote: >
+    A basic education in pharmaceutical and biological sciences
+  description: |
+    Graduated with a first class honours degree.
+    Spent much of my free time as a committee member of the orienteering club, spending time as Chairperson and Treasurer across several national-chapionship winning years.
