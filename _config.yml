@@ -29,8 +29,15 @@ about_content: | # this will include new lines to allow paragraphs
   I love dealing with people and speaking publically. I've got an appetite for new knowledge. I'm an <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">ENTP.</a><br><br>
   I am most skilled in: <mark>innovation</mark>, <mark>project management</mark> and <mark>leading and managing people</mark>
 
-# Projects Section
-# projects_title: Projects
+Projects Section
+projects_title: Projects
+  I am most proud of leading or being a key member of the teams who successfully delivered:
+  - The new ICAO Masterlist
+  - The Schengen Smart Borders pilot
+  - The new EU Technology Hub 
+  - The European Travel Information and Authorizatio System - feasibility study
+  - Centralized routing of Advance Passenger Information Messaging in the EU
+  - ARP/wARP software for structural modelling of crystallized biological molecules analyzed with X-Rays
 
 # Experience Section
 # experience_title: Experience
