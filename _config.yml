@@ -31,6 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
+  projects_content: | # this includes new lines
   I am most proud of leading or being a key member of the teams who successfully delivered:
   - The new ICAO Masterlist
   - The Schengen Smart Borders pilot
