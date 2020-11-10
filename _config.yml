@@ -28,10 +28,10 @@ google_analytics: "UA-00000000-0"
 # about_title: About Me
 about_profile_image: Chair_small.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a creative and results-oriented leader. I strive to inspire and drive change through implementation of technological projects that can transform business for the better.<br>
+  I\'m a creative and results-oriented leader. I strive to inspire and drive change through implementation of technological projects that can transform business for the better.<br>
   Experienced in ideation (<a href="http://www.embl-hamburg.de/ARP/">built novel software for drug discovery</a>), building coalitions for change (<a href="https://ec.europa.eu/transparency/regexpert/index.cfm?do=groupDetail.groupDetail&groupID=3435">ensured EU-wide agreement to interoperability of large-scale IT systems as a paradigm shift in operational approaches</a>) and project/program management (<a href="https://www.eulisa.europa.eu/Activities/Pilot-Projects">managed Smart Borders testing</a>, <a href="https://www.icao.int/Security/FAL/PKD/Pages/ICAO-Master-List.aspx">delivery of the ICAO masterlist</a>).<br><br>
-  I love dealing with people and speaking publically. I've got an appetite for new knowledge. I'm an <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">ENTP.</a><br><br>
-  I am most skilled in: <mark>innovation</mark>, <mark>project management</mark> and <mark>leading and managing people, both in-office and remotely</mark> (having completed a blended learning MBA with extensive online teamwork and project coordination, as well as having led a team of 5 spread across two countries as well as a team of 14 more traditionally in office) 
+  I love dealing with people and speaking publically. I\'ve got an appetite for new knowledge. I\'m an <a href="https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator">ENTP.</a><br><br>
+  I am most skilled in <mark>innovation</mark>, <mark>project management</mark> and <mark>leading and managing people, both in-office and remotely</mark> (having completed a blended learning MBA with extensive online teamwork and project coordination, as well as having led a team of 5 spread across two countries as well as a team of 14 more traditionally in office) 
 
 # Education Section
 # education_title: Education
@@ -43,9 +43,14 @@ about_content: | # this will include new lines to allow paragraphs
 # projects_title: Projects
 
 # More Section
-# more_title: A Little More About Me
-# more_content: | # this will include new lines to allow paragraphs
-
+more_title: Interests
+more_content: | # this will include new lines to allow paragraphs
+  My hobbies include 
+    - Running long distances, including marathons, albeit rather slowly...I\'m a short-distance triathlete in training
+    - Working on my golf handicap, which edges lower at a snail\'s pace
+    - Trying all sports that Canada has to offer as a new home, principally skating, snowshoeing and cross-country skiing
+    - Sourdough baking (as everybody else is at it in the current lockdown)
+    - <a href="https://vimeo.com/240314507">Playing with my children</a>
 
 # Footer
 footer_show_references: true

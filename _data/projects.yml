@@ -1,10 +1,17 @@
 - layout: top-middle
+  name: KiT SmartPhone app
+  quote: >
+    Always eager to learn new things, I'm currently preparing this new Android app for public release. 
+  description: | # this will include new lines to allow paragraphs
+    Watch this space! A new app prepared in my spare time that should deserve pride of place in my CV once it\'s launched
+    
+- layout: top-middle
   name: ICAO master list
   link: https://www.icao.int/Security/FAL/PKD/Pages/ICAO-Master-List.aspx
   quote: >
     A new resource for easing State challenges in validating electronic passports, delivered within 9 months of taking up a new role.
   description: | # this will include new lines to allow paragraphs
-  The ICAO master list of CSCA certificates is used by States and other entities globally to obtain up-to-date data necessary for electornic passport authentication in a convenient, machine-usable format. The first master list was published in March 2019 having been sought by the community for years before, containing several hundred national certificates. It is signed by the United Nations private key for added trust.
+    The ICAO master list of CSCA certificates is used by States and other entities globally to obtain up-to-date data necessary for electornic passport authentication in a convenient, machine-usable format. The first master list was published in March 2019 having been sought by the community for years before, containing several hundred national certificates. It is signed by the United Nations private key for added trust.
 
 - layout: top-middle
   name: EU Interoperability
@@ -12,7 +19,7 @@
   quote: >
     Ideating new paradigms for EU IT system operation with diverse stakeholders, assessing feasibility, motivating buy-in and delivering legislative change
   description: | # this will include new lines to allow paragraphs
-  I was the main eu-LISA coordinator to the EU High-Level Expert Group on Information Systems and Interoperability, managing all Agency input. Taking into account discussions therein, I participated in several feasbility studies, managing delivery of the shared Biometric Matching System study. Continued outreach at both technical and poltical levels to eventual successful approval of new legislation.
+    I was the main eu-LISA coordinator to the EU High-Level Expert Group on Information Systems and Interoperability, managing all Agency input. Taking into account discussions therein, I participated in several feasbility studies, managing delivery of the shared Biometric Matching System study. Continued outreach at both technical and poltical levels to eventual successful approval of new legislation.
 
 - layout: top-middle
   name: EU Smart Borders pilot
@@ -20,4 +27,4 @@
   quote: >
     Testing new border control technologies in real-life settings across Europe
   description: | # this will include new lines to allow paragraphs
-  I was a team member for the Smart Borders pilot, managing testing at 7 different border control points in 4 European countries. I also took responsibility for all industry engagement within the pilot, attaining free-of-charge technological offerings from more than 20 companies within the pilot.
+    I was a team member for the Smart Borders pilot, managing testing at 7 different border control points in 4 European countries. I also took responsibility for all industry engagement within the pilot, attaining free-of-charge technological offerings from more than 20 companies within the pilot.
